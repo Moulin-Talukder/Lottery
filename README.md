@@ -9,7 +9,6 @@ Lottery allows you to set specific winning parameters for each lottery, increasi
 - [Admin Features](#admin-features)
 - [Installation](#installation)
 - [Support](#support)
-- [License](#license)
 
 ## User Features
 - Lottery Game
@@ -87,6 +86,3 @@ Lottery allows you to set specific winning parameters for each lottery, increasi
 
 ## Support
 For support, installation, and customization, please contact us at [support@lottery.com](mailto:support@lottery.com). We are committed to providing the best support to ensure your success.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
